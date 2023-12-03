@@ -31,6 +31,16 @@
 - Unity3D
 - Face recognition, OpenCV, 
 
+#### Donate 
+BSC, ERC-20, Polygon, OP network my address ends with "addc"
+0x5eff9fd06b8427a359acd83feb1a0e0c0fa1addc
+
+Tron(TRC-20)
+TNMhkGcVbNdZmvr3QzQvUEBGPC6iqy2xUA
+
+BTC
+1PoAfGz6diS4tnwkYvdBR2mjvtZamhdJhR
+
 <table><tr><td valign="top" width="100%">
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
